@@ -2,17 +2,18 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+  <img alt="Logo" src="media/logos/Untitled design (1).png" width="350" height="350" />
+</p>
+  <h1 align="center">Artify AI (A Interactive Artistic Experience that is powered by AI)</h1>
+  <p align="center">A project for TAP by Artify AI </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+The objective of the workshop is to showcase how users can make their ideas fun through art, stories, and templates using AI. 
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This interactive workshop allows participants to explore the combination of creativity, AI, and programming through art. Using tools like Processing, Java, and DALL-E, participants create personalized images based on their input and then color and design them on an interactive canvas.
 
 ## :bulb: Project Information
 <!-- 
@@ -29,105 +30,92 @@ You can select from a range of audiences or a single auidience. Examples:
     K-12
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
-* <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
-* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
-* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
-* <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* <b>Difficulty Level:</b> Beginner
+* <b>Target Audience:</b> 10+, Artists and Designers, Teenagers, STEAM or Non-STEM major
+* <b>Duration of Workshop:</b> 45-65 Minutes
+* <b>Needed Materials:</b> A computer with keyboard, mouse, and internet connectivity
+* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants how to combine creativity with technology by exploring the basics of AI, interactive design, and programming
+* <b>Your Main Technology</b> Java and Ai. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-[Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
+[Commercial Video] TBD
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Team Name
+## :pencil2: Team: Artify AI
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
+<p align="center">
+  <img alt="Logo" src="media/logos/Untitled design (7).png" width="350" height="350" />
+</p>
 
-> (From left to right: Batman,  Wonder Woman, Superman.)
-<!-- replace with full names of your team members -->
+> (From left to right: Claudio, Francis, and Maggie.)
 
-* Team Member 1
-* Team Member 2
-* Team Member 3
-* Team Member 4
+* Claudio
+* Francis
+* Maggie
+
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. John Doe
-* Dr. Jane Doe
+* Dr. Gunay
+* Dr. Rob
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+In this project, participants will explore the intersection of creativity, AI, and programming by creating interactive art. They’ll start by generating an image from a text prompt using DALL-E AI, then use an interactive canvas to color and design their artwork. While doing this, they’ll learn basic programming concepts through Java, gaining insight into how AI and coding work together behind the scenes
+
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+TBD  
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
+<i>TBD </i>
 
-Example:
 
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
-
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+<i>Blending Reality (Teaching 3D modelling and Augmented Reality with Blender and Aero)https://tapggc.org/projects/2024/spring/blending-reality/ 
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* [Processing](https://processing.org/) uses Java’s programming language and is used for making visuals and interactive graphics .
+
 
 <p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
+  <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="350" height="200"/>
 </p>
+<a href="https://openai.com/index/dall-e/">DALL-E AI</a>
+An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
 
-## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
 
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
+Why we chose Processing: It is easy to use and helps participants create interactive and visual art while learning programming concepts. This makes it ideal for engaging participants in both art and coding.
 
-### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
+Why we chose DALL-E: It allows for fast and creative image generation based on participant prompts, making the process fun, interactive, and highly engaging.
 
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
+
+
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
+## First Installation Walkthrough
+TBD
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
+### Getting to the System 
+TBD
 
 ## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
+TBD
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+TBD
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
-
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+TBD
 
 
