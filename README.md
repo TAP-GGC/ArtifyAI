@@ -53,7 +53,7 @@ You can select from a range of audiences or a single auidience. Examples:
 > (From left to right: Claudio, Francis, and Maggie.)
 
 * Claudio
-* Francis
+* Francis Bolay
 * Maggie
 
 
