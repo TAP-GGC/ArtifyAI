@@ -72,7 +72,9 @@ In this project, participants will explore the intersection of creativity, AI, a
 TBD  
 
 ## :open_hands: Outreach
-<i>TBD </i>
+<i> February 25th, 2025 - TAP EXPO
+    March 15th, 2025 - Georgia Gwinnett College Atlanta Science Festival 
+    March 22nd, 2025 - Atlanta Science Festival-Piedmont Park </i>
 
 
 
