@@ -10,10 +10,10 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is to showcase how users can make their ideas fun through art, stories, and templates using AI. 
+The objective of the workshop is to showcase how users can turn their ideas into art with the help of Artificial Intelligence. 
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This interactive workshop allows participants to explore the combination of creativity, AI, and programming through art. Using tools like Processing, Java, and DALL-E, participants create personalized images based on their input and then color and design them on an interactive canvas.
+This interactive workshop allows participants to explore the combination of creativity, AI, and programming through art. Using tools like Processing, Java, and DALL-E, participants create personalized images based on their input and then color and design their ideas on an interactive canvas.
 
 ## :bulb: Project Information
 <!-- 
@@ -40,6 +40,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
 [Commercial Video] TBD
+[![Alt text]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=EQ5pVtZgng4.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=EQ5pVtZgng4))
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
