@@ -47,10 +47,10 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <p align="center">
-  <img alt="Francis, Claudio, Maggie" src = "media/team photos/Team picture.JPG" width="" height="300">
+  <img alt="Francis, Claudio, Maggie" src = "../media/team photos/Team picture.jpg" width="" height="300">
 </p>
 
-> (From left to right: Claudio, Francis, and Maggie.)
+> (From left to right: Francis,  Claudio, and Maggie.)
 
 * Claudio Sandrio
 * Francis Bolay
