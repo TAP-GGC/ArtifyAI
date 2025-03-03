@@ -39,8 +39,13 @@ You can select from a range of audiences or a single auidience. Examples:
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-[Commercial Video] TBD
-[![Alt text]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=EQ5pVtZgng4.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=EQ5pVtZgng4))
+
+<div align="center">
+  <b>Commercial Video</b> <br> <br>
+  <a href="https://www.youtube.com/watch?v=EQ5pVtZgng4">
+    <img src="https://img.youtube.com/vi/EQ5pVtZgng4/0.jpg" alt="Commercial Video" height="300">
+  </a>
+</div>
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
@@ -65,7 +70,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-In this project, participants will explore the intersection of creativity, AI, and programming by creating interactive art. They’ll start by generating an image from a text prompt using DALL-E AI, then use an interactive canvas to color and design their artwork. While doing this, they’ll learn basic programming concepts through Java, gaining insight into how AI and coding work together behind the scenes
+Artify AI, an interactive digital art platform powered by generative AI. The project allows users to create and personalize artwork by simply entering text prompts, which the AI then translates into detailed outlines for coloring. This platform encourage creativity and accessibility, enabling users to engage in digital art, regardless of their skill level, from beginners with no experience but creativity, to professionals. Through RGB customization, brush size control, and AI-generated templates, Artify AI introduces users to both artistic expression and fundamental computing concepts.
 
 
 ## :memo: Publications
