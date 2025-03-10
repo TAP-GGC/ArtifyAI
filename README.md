@@ -34,8 +34,14 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Target Audience:</b> 10+, Artists and Designers, Teenagers, STEAM or Non-STEM major
 * <b>Duration of Workshop:</b> 45-65 Minutes
 * <b>Needed Materials:</b> A computer with keyboard, mouse, and internet connectivity
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants how to combine creativity with technology by exploring the basics of AI, interactive design, and programming
-* <b>Your Main Technology</b> Java and Ai. 
+* <b>Learning Outcomes:</b>
+<ul>
+  <li>The primary goal of this project is to teach participants how to combine creativity with technology.</li>
+  <li>Students will learn how to craft effective prompts to guide AI and experiment with different ways of structuring their prompts.</li>
+  <li>Students will learn how to create and manipulate colors digitally using the RGB model.</li>
+</ul>
+
+* <b>Main Technology:</b> Java and AI. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
@@ -97,7 +103,7 @@ TBD
 
 
 <p align="center">
-  <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="350" height="200"/>
+  <img alt="Logo" src="media/technology/dalle.png" />
 </p>
 <a href="https://openai.com/index/dall-e/">DALL-E AI</a>
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
