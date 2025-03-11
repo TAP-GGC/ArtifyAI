@@ -116,7 +116,7 @@ Why we chose DALL-E: It allows for fast and creative image generation based on p
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## Project Setup / Installation
 ### Download Processing
-[Click here to view instructions](/documents/tutorial materials/how%20to%20download%20processing.md)
+[Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20processing.md)
 
 ### Getting to the System 
 TBD
