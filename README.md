@@ -35,12 +35,9 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Duration of Workshop:</b> 45-65 Minutes
 * <b>Needed Materials:</b> A computer with keyboard, mouse, and internet connectivity
 * <b>Learning Outcomes:</b>
-<ul>
-  <li>The primary goal of this project is to teach participants how to combine creativity with technology.</li>
-  <li>Students will learn how to craft effective prompts to guide AI and experiment with different ways of structuring their prompts.</li>
-  <li>Students will learn how to create and manipulate colors digitally using the RGB model.</li>
-</ul>
-
+  - The primary goal of this project is to teach participants how to combine creativity with technology.
+  - Students will learn how to craft effective prompts to guide AI and experiment with different ways of structuring their prompts.
+  - Students will learn how to create and manipulate colors digitally using the RGB model.
 * <b>Main Technology:</b> Java and AI. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
@@ -91,7 +88,7 @@ TBD
 
 
 ## :mag_right: Similar Projects
-<i>Blending Reality (Teaching 3D modelling and Augmented Reality with Blender and Aero)https://tapggc.org/projects/2024/spring/blending-reality/ 
+<i>Blending Reality (Teaching 3D modelling and Augmented Reality with Blender and Aero)https://tapggc.org/projects/2024/spring/blending-reality/ </i>
 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
@@ -127,7 +124,13 @@ TBD
 TBD
 
 ## Short Demo Instructions 
-TBD
+1. Click the right arrow button to run the program.
+2. Click the "Start" button to go to the prompt screen.
+3. Write a prompt describing what you want to draw and click the "Generate" button.
+4. The program will send your prompt to DALL·E, which will then return the generated image.
+5. Start drawing by moving your mouse inside the canvas and click to apply the selected color.
+6. Modify the brush size and color by typing the desired values in the input boxes and clicking the button.
+
 
 ## Workshop Instructions 
 TBD
