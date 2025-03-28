@@ -80,9 +80,9 @@ Artify AI is an interactive digital art platform powered by generative AI, desig
 TBD  
 
 ## :open_hands: Outreach
-<i> February 25th, 2025 - TAP EXPO </i>
- <i>   March 15th, 2025 - Georgia Gwinnett College Atlanta Science Festival </i>
-  <i>  March 22nd, 2025 - Atlanta Science Festival-Piedmont Park </i>
+<p> February 25th, 2025 - TAP EXPO </p>
+ <p>   March 15th, 2025 - Georgia Gwinnett College Atlanta Science Festival </p>
+  <p>  March 22nd, 2025 - Atlanta Science Festival-Piedmont Park </p>
 
 
 
