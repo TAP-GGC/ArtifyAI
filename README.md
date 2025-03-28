@@ -133,16 +133,16 @@ TBD
 
 
 ## Workshop Instructions 
-1.Introduction: We’ll start by introducing ourselves and explaining our roles in the Artify AI project. We’ll give a brief overview of the platform, highlighting its key features like prompt engineering and RGB color manipulation.
+1. Introduction: We’ll start by introducing ourselves and explaining our roles in the Artify AI project. We’ll give a brief overview of the platform, highlighting its key features like prompt engineering and RGB color manipulation.
 
-2.Pre-Survey: We’ll then distribute a pre-survey to gauge your understanding of digital art and AI before we dive into the session.
+2. Pre-Survey: We’ll then distribute a pre-survey to gauge your understanding of digital art and AI before we dive into the session.
 
-3.Presentation: We’ll present a few slides to walk you through how Artify AI works and how prompt engineering helps guide the AI to create specific images. There will be trivia questions throughout to keep things interactive.
+3. Presentation: We’ll present a few slides to walk you through how Artify AI works and how prompt engineering helps guide the AI to create specific images. There will be trivia questions throughout to keep things interactive.
 
-4.Hands-On Instructions: After the presentation, we’ll show you how to access Artify AI and guide you through the platform. You’ll either complete some challenges or have free time to experiment with the tool.
+4. Hands-On Instructions: After the presentation, we’ll show you how to access Artify AI and guide you through the platform. You’ll either complete some challenges or have free time to experiment with the tool.
 
-5.Post-Survey: Once you’ve explored Artify AI, we’ll hand out a post-survey to gather feedback on your experience and what you learned.
+5. Post-Survey: Once you’ve explored Artify AI, we’ll hand out a post-survey to gather feedback on your experience and what you learned.
 
-6.Closing: Lastly, we’ll thank you for your time and participation, and encourage you to keep experimenting with Artify AI. We’ll also inform you about any future workshops or opportunities.
+6. Closing: Lastly, we’ll thank you for your time and participation, and encourage you to keep experimenting with Artify AI. We’ll also inform you about any future workshops or opportunities.
 
 
