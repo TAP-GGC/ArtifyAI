@@ -45,7 +45,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <div align="center">
   <b>Commercial Video</b> <br> <br>
-  <a href="https://www.youtube.com/watch?v=EQ5pVtZgng4">
+  <a href="https://youtu.be/1ygCknwJyWc?si=wxKOFJCZKTDUmL7Z">
     <img src="https://img.youtube.com/vi/EQ5pVtZgng4/0.jpg" alt="Commercial Video" height="300">
   </a>
 </div>
