@@ -117,7 +117,7 @@ Why we chose DALL-E: It allows for fast and creative image generation based on p
 ### Download Processing
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20processing.md)
 
-### Run Aritify AI 
+### Run Artify AI 
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20artify%20ai.md)
 
 ## Usage
