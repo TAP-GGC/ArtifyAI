@@ -6,7 +6,7 @@
    
    <img src="../../media/tutorial/open with processing.png" width="400" height="200">
 
-4. Copy this API key and put it in the 'AI Manager" class ""
+4. You need to get the API key from OPENAI and put it in the 'AI Manager" class ""
    <img src="../../media/tutorial/apikey.png">
    
 5. Click the run button on top left.
