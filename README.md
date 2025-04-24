@@ -31,7 +31,7 @@ You can select from a range of audiences or a single auidience. Examples:
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
 * <b>Difficulty Level:</b> Beginner
-* <b>Target Audience:</b> 10+, Artists and Designers, Teenagers, STEAM or Non-STEM major
+* <b>Target Audience:</b> All Ages
 * <b>Duration of Workshop:</b> 45-65 Minutes
 * <b>Needed Materials:</b> A computer with keyboard, mouse, and internet connectivity
 * <b>Learning Outcomes:</b>
