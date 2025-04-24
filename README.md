@@ -77,9 +77,9 @@ Artify AI is an interactive digital art platform powered by generative AI, desig
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Atlanta Science Festival March 15, 2025, Georgia Gwinnett College: Promoting IT Field along with Prompt Engineering and Creativity with AI.
-2. Atlanta Science Festival March 22, 2025,  Piedmont Park (Atlanta): Promoting IT Field along with Prompt Engineering and Creativity with AI.
-3. Class Workshops March 31 & April 1 & 4, 2025, Georgia Gwinnett College: Promoting IT Field along with Prompt Engineering and Creativity with AI.
+1.  Atlanta Science Festival March 15, 2025, Georgia Gwinnett College: Promoting IT Field along with Prompt Engineering and Creativity with AI.
+2.  Atlanta Science Festival March 22, 2025,  Piedmont Park (Atlanta): Promoting IT Field along with Prompt Engineering and Creativity with AI.
+3.  Class Workshops March 31 & April 1 & 4, 2025, Georgia Gwinnett College: Promoting IT Field along with Prompt Engineering and Creativity with AI.
 
 ## :open_hands: Outreach
 <p> February 25th, 2025 - TAP EXPO </p>
