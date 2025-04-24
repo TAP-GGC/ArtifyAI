@@ -77,8 +77,8 @@ Artify AI is an interactive digital art platform powered by generative AI, desig
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-<p>STARS, 17, April, 2025</p>
-<p></p>CREATE Symposium, 24, April, 2025</p>
+STARS, 17, April, 2025
+and CREATE Symposium, 24, April, 2025
 ## :open_hands: Outreach
 <p> February 25th, 2025 - TAP EXPO </p>
  <p>   March 15th, 2025 - Georgia Gwinnett College Atlanta Science Festival </p>
