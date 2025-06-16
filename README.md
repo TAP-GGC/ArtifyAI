@@ -43,12 +43,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
 
-<div align="center">
-  <b>Commercial Video</b> <br> <br>
-  <a href="https://youtu.be/1ygCknwJyWc?si=wxKOFJCZKTDUmL7Z">
-    <img src="https://img.youtube.com/vi/EQ5pVtZgng4/0.jpg" alt="Commercial Video" height="300">
-  </a>
-</div>
+[<img align="center" src= "media/technology/Demo-PizzaHeist.PNG" width="" height="">](https://youtu.be/pBZapna9R4M)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
@@ -116,6 +111,9 @@ Why we chose DALL-E: It allows for fast and creative image generation based on p
 ## Project Setup / Installation
 ### Download Processing
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20processing.md)
+
+<b>Video for Processing setup<b> Click on the image
+[<img align="center" src= "media/technology/setupImage.PNG" width="" height="">](https://youtu.be/5eAuQSZGzNE)
 
 ### Run Artify AI 
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20artify%20ai.md)
