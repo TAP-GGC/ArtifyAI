@@ -115,7 +115,6 @@ Why we chose DALL-E: It allows for fast and creative image generation based on p
 ### Run Artify AI 
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20artify%20ai.md)
 
-
 <b>Video for Processing setup<b>  Click on the image
 [<img align="center" src= "media/technology/setupImage.PNG" width="" height="">](https://youtu.be/5eAuQSZGzNE)
 
