@@ -118,7 +118,11 @@ Click on the image below for a video showing how to setup Artify AI step-by-step
 ## Usage
 TBD
 
-## Short Demo Instructions 
+## Short Demo 
+Click the image below to watch the demo of the project <br> 
+[<img src= "Media/JEDIadTeam.PNG">](https://youtu.be/Kj-5wL9x8ck) 
+
+<b>Instructions:</b> 
 1. Click the right arrow button to run the program.
 2. Click the "Start" button to go to the prompt screen.
 3. Write a prompt describing what you want to draw and click the "Generate" button.
