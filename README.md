@@ -120,7 +120,7 @@ TBD
 
 ## Short Demo 
 Click the image below to watch the demo of the project <br> 
-[<img src= "Media/JEDIadTeam.PNG">](https://youtu.be/Kj-5wL9x8ck) 
+[<img src= "media/technology/ArtifyAI.PNG">](https://youtu.be/Kj-5wL9x8ck) 
 
 <b>Instructions:</b> 
 1. Click the right arrow button to run the program.
