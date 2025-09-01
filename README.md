@@ -41,9 +41,9 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Main Technology:</b> Java and AI. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
-
-
-[<img align="center" src= "media/technology/promoImage.PNG" width="" height="">](https://youtu.be/pBZapna9R4M)
+ ### Commercial Video 
+Click the image below to watch a 30 second commercial for the project <br> <br>
+[<img align="center" src= "media/technology/promoImage.PNG" width="400" height="">](https://youtu.be/pBZapna9R4M)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
@@ -51,7 +51,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <p align="center">
-  <img alt="Francis, Claudio, Maggie" src = "media/team photos/Team picture.jpg" width="" height="300">
+  <img alt="Francis, Claudio, Maggie" src = "media/team photos/Team picture.jpg" width="400" height="300">
 </p>
 
 > (From left to right: Francis,  Claudio, and Maggie.)
