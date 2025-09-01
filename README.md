@@ -104,13 +104,14 @@ Why we chose DALL-E: It allows for fast and creative image generation based on p
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## Project Setup / Installation
-### Download Processing
+### How to Download Processing
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20processing.md)
 
-### Run Artify AI 
+### How to Run Artify AI 
 [Click here to view instructions](/documents/tutorial%20materials/how%20to%20download%20artify%20ai.md)
 
-<b>Video for Processing setup<b>  Click on the image
+### Processing Setup Video
+Click on the image below for a video showing how to setup Processing step-by-step
 [<img align="center" src= "media/technology/setupImage.PNG" width="" height="">](https://youtu.be/5eAuQSZGzNE)
 
 
