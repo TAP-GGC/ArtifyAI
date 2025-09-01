@@ -87,14 +87,14 @@ and CREATE Symposium, 24, April, 2025
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200" height="200"/>
+  <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200"/>
 </p>
 
 * [Processing](https://processing.org/) uses Java’s programming language and is used for making visuals and interactive graphics .
 
 
 <p align="center">
-  <img alt="Logo" src="media/technology/dalle.png" />
+  <img alt="Logo" src="media/technology/dalle.png" width="200"/>
 </p>
 <a href="https://openai.com/index/dall-e/">DALL-E AI</a>
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
