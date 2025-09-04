@@ -132,10 +132,10 @@ Click the image below to watch the demo of the project <br>
 
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough PDF file](media/ArtifyWorkshop.PNG)
+[Click here to view workshop walkthrough PDF file](/documents/workshop%20materials/ArtifyAI-Workshop.pdf)
 
 Click on the image below to watch our video walkthrough of our workshop. <br>
-[<img src= "media/ProjectSetupGodot.PNG">](https://youtu.be/lpCXYJBmrNU)
+[<img src= "media/ArtifyWorkshop.PNG">](https://youtu.be/lpCXYJBmrNU)
 
 
 1. Introduction: We’ll start by introducing ourselves and explaining our roles in the Artify AI project. We’ll give a brief overview of the platform, highlighting its key features like prompt engineering and RGB color manipulation.
